@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Artifacts and checkpoints
+artifacts/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+
+# Data
+data/
+*.txt
+*.json
+*.csv
+*.h5
+*.hdf5
+
+# ViT experiments (excluded per user request)
+**/vit_*
+**/run_curvature_subspace_vit_*
+**/plot_vit_*
+**/run_crt_noisy_cifar.py
+**/run_spectral_attrition_*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Temporary files
+*.tmp
+*.bak
+
