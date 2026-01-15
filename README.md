@@ -1,6 +1,8 @@
 # Curvature Subspace Compression
 
-<img width="416" height="207" alt="Screenshot 2026-01-14 at 6 58 42 PM" src="https://github.com/user-attachments/assets/2b893f84-c708-4fb2-b6d8-329b34622473" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b893f84-c708-4fb2-b6d8-329b34622473" width="416" height="207" />
+</p>
 
 A method for compressing transformer MLP blocks using curvature-aligned subspace decomposition, reducing memorization while preserving (and sometimes improving) generalization.
 
