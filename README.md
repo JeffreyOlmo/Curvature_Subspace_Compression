@@ -14,6 +14,9 @@ This repository implements **curvature subspace compression** for transformer mo
 - Can achieve better validation perplexity at a fixed parameter budget compared to uncompressed baselines
 - Uses Kronecker-factored approximate curvature (K-FAC) to identify low-curvature subspaces
 
+<img width="378" height="140" alt="Screenshot 2026-01-14 at 7 02 43 PM" src="https://github.com/user-attachments/assets/8442615c-d133-421e-8d87-675d80bbf297" />
+
+
 ## Installation
 
 ```bash
